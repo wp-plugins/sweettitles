@@ -19,8 +19,9 @@ Using Windows Live Writer (WLW offline editor) when an error occurs xmlrpc.php n
 
 == Installation ==
 
-(1) unzip the sweetTitles.zip file in /wp-content/plugins
-(2) Active the plugin 
+ (1) unzip the sweetTitles.zip file in /wp-content/plugins
+
+ (2) Active the plugin 
 
 == Changelog ==
 
