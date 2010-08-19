@@ -22,7 +22,7 @@ function sweetTitles(){
 	$css_url = get_bloginfo("wpurl") . '/wp-content/plugins/sweetTitles/css/style.css';
 	
 	//获取sweetTitles js地址
-	$script_html = '<script type="text/javascript" src="' . get_bloginfo('wpurl') . '/wp-content/plugins/sweetTitles/js/jquery.sweetTitles.js"></script>';
+	$script_html = '<script type="text/javascript" src="' . get_bloginfo('wpurl') . '/wp-content/plugins/sweetTitles/js/sweetTitles.js"></script>';
 	
 	//获取jquery地址
 	$jq_url = '<script type="text/javascript" src="' . get_bloginfo("wpurl") . '/wp-content/plugins/sweetTitles/js/jquery-1.3.1.min.js"></script>';
