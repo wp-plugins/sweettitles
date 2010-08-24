@@ -1,8 +1,8 @@
-===sweetTitles===
+﻿===sweetTitles===
 Contributors: blueandhack
 Tags:blueandhack,sweetTitles
-Requires at least: 2.3
-Tested up to: 1.1
+Requires at least: 2.9.2
+Tested up to: 1.2
 Stable tag: trunk
 
 == Description ==
@@ -19,11 +19,14 @@ Using Windows Live Writer (WLW offline editor) when an error occurs xmlrpc.php n
 
 == Installation ==
 
- (1) unzip the sweetTitles.zip file in /wp-content/plugins
+ (1) unzip the sweetTitles.zip file in /wp-content/plugins解压sweetTitles.zip文件至/wp-content/plugins目录
 
- (2) Active the plugin 
+ (2) Active the plugin激活插件 
 
 == Changelog ==
+
+= 1.2 =
+* 修改jQuery引用方式，使用木木版的JS和CSS（感谢木木和wsqsite）
 
 = 1.1 =
 * 规范插件描述等内容
