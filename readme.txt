@@ -25,6 +25,9 @@ Using Windows Live Writer (WLW offline editor) when an error occurs xmlrpc.php n
 
 == Changelog ==
 
+= 1.3 =
+* 修改目录大小写导致的错误
+
 = 1.2 =
 * 修改jQuery引用方式，使用木木版的JS和CSS（感谢木木和wsqsite）
 
