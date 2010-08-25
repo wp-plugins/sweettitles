@@ -18,13 +18,13 @@ Author URI: http://blueandhack.com
 function sweetTitles(){
 	
 	//获取css地址
-	$css_url = get_bloginfo("wpurl") . '/wp-content/plugins/sweetTitles/css/style.css';
+	$css_url = get_bloginfo("wpurl") . '/wp-content/plugins/sweettitles/css/style.css';
 	
 	//获取sweetTitles js地址
-	$script_html = '<script type="text/javascript" src="' . get_bloginfo('wpurl') . '/wp-content/plugins/sweetTitles/js/sweetTitles.js"></script>';
+	$script_html = '<script type="text/javascript" src="' . get_bloginfo('wpurl') . '/wp-content/plugins/sweettitles/js/sweetTitles.js"></script>';
 	
 	//获取jquery地址
-	$jq_url = '<script type="text/javascript" src="' . get_bloginfo("wpurl") . '/wp-content/plugins/sweetTitles/js/jquery-1.3.1.min.js"></script>';
+	$jq_url = '<script type="text/javascript" src="' . get_bloginfo("wpurl") . '/wp-content/plugins/sweettitles/js/jquery-1.3.1.min.js"></script>';
 	
 	echo "\n" . '<link rel="stylesheet" href="' . $css_url . '" type="text/css" media="screen" />' . $jq_url . $script_html;
 	
