@@ -1,6 +1,6 @@
 ﻿===sweetTitles===
 Contributors: blueandhack
-Tags:blueandhack,sweetTitles
+Tags:blueandhack,sweetTitles,sweettitles,sweet,titles
 Requires at least: 2.9.2
 Tested up to: 1.4
 Stable tag: trunk
