@@ -2,7 +2,7 @@
 Contributors: blueandhack
 Tags:blueandhack,sweetTitles
 Requires at least: 2.9.2
-Tested up to: 1.2
+Tested up to: 1.4
 Stable tag: trunk
 
 == Description ==
@@ -19,23 +19,26 @@ Using Windows Live Writer (WLW offline editor) when an error occurs xmlrpc.php n
 
 == Installation ==
 
- (1) unzip the sweetTitles.zip file in /wp-content/plugins解压sweetTitles.zip文件至/wp-content/plugins目录
+ (1) unzip the sweetTitles.zip file in /wp-content/plugins 解压sweetTitles.zip文件至/wp-content/plugins目录
 
- (2) Active the plugin激活插件 
+ (2) Active the plugin 激活插件 
 
 == Changelog ==
 
+= 1.4 =
+* Modify the CSS code issues, improve sweettitles code comments. 修改CSS代码问题,完善sweetTitles代码注释
+
 = 1.3 =
-* 修改目录大小写导致的错误
+* Case result in an error to modify the directory. 修改目录大小写导致的错误
 
 = 1.2 =
-* 修改jQuery引用方式，使用木木版的JS和CSS（感谢木木和wsqsite）
+* Modify the jQuery reference method, using the Wood version of the JS and CSS (thanks Wood and wsqsite). 修改jQuery引用方式，使用木木版的JS和CSS（感谢木木和wsqsite）
 
 = 1.1 =
-* 规范插件描述等内容
+* Standard plug-in description of the contents of. 规范插件描述等内容
 
 = 1.0 =
-* 发现WLW离线编写软件错误（感谢hey33的测试），写出小提示，插件发布
+* WLW offline writing software error was found , writing tips, plug-in released.(thanks to hey33 tests) 发现WLW离线编写软件错误，写出小提示，插件发布（感谢hey33的测试）
 
 = 0.9 =
-* 构思插件，初始版本测试
+* The idea of plug-in, the initial version of the test. 构思插件，初始版本测试

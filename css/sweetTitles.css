@@ -1,3 +1,5 @@
-#tooltip {position:absolute;z-index:1000;max-width:250px;word-wrap:break-word;background:#000;text-align:left;padding:5px;height:35px;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
-#tooltip p {color:#fff;font:12px 'Microsoft YaHei',Arial,ËÎÌå,Tahoma,Sans-Serif;}
+@charset "utf-8";
+#tooltip {position:absolute;z-index:1000;max-width:250px;word-wrap:break-word;background:#000;text-align:left;padding:5px;min-height:1em;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+#tooltip p {color:#fff;font:12px 'Microsoft YaHei',Arial,å®‹ä½“,Tahoma,Sans-Serif;}
 #tooltip p em {display:block;margin-top:3px;color:#f60;font-style:normal;}
+#tooltip p {margin: 0;}
