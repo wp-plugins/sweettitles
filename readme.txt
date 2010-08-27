@@ -5,6 +5,8 @@ Requires at least: 2.9.2
 Tested up to: 1.4
 Stable tag: trunk
 
+This is the beautification of the title of plugin, named sweetTitles. 这是一个美化标题的插件，名字叫做sweetTitles
+
 == Description ==
 
 The name comes from Sweet Titles to change the Title prompt effects plug-js Sweet Titles Finalized, this plug-in effect makes the title prompted to become beautiful, and can show you are going to click on the link to the url, so that users know where to go, while improving degree of user experience.convenient for those lazy people, so they do not need hands-on will be able to achieve this effect, but the plug has shortcomings that may lead to repeated loading jQuery, because it is the initial version, there is no background option, the future will be.
