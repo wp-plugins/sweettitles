@@ -25,11 +25,6 @@ Using Windows Live Writer (WLW offline editor) when an error occurs xmlrpc.php n
 
  (2) Active the plugin 激活插件 
 
-== Screenshots ==
-
-This is the effect screenshot. 这是效果截图
-`/tags/1.3/sweettitles.jpg`
-
 == Changelog ==
 
 = 1.4 =
